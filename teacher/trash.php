@@ -88,6 +88,8 @@ if (isset($_GET['restore_id'])) {
                     <li><a href="../staff/index.php"><i class="fas fa-user-graduate"></i> All Staffs</a></li>
                     <li><a href="../staff/add.php"><i class="fas fa-user-plus"></i> Add Staff</a></li>
                     <li><a href="../staff/trash.php"><i class="far fa-trash-alt"></i> Trash</a></li>
+                    <li><a href="../index.php">Logout</a></li>
+
                </ul>
           </div>
           <!-- Page content  -->

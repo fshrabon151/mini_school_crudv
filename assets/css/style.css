@@ -1,3 +1,15 @@
+/* welcome page start  */
+.card-body.text-center.card-custom a {
+  margin-bottom: 15px;
+  width: 80%;
+  display: block;
+  margin: auto;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+/* welcome page end  */
 /* sidebar  */
 #sidebar-wrapper {
   z-index: 1;
@@ -60,11 +72,12 @@ span.span-title {
 }
 
 .simg {
-	width: 200px;
-	height: 200px;
-	display: block;
-	margin: auto;
-	border-radius: 100%;
-	border: 10px solid #FFF;
-	
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+  border-radius: 100%;
+  border: 10px solid #fff;
 }
+
+
